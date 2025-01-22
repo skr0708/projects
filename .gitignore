@@ -1,6 +1,7 @@
 yt-api-tests/
 stk-mrkt/
 *.csv
-.env
+*.env
 /temp
-.pdf
+*.pdf
+*.pyc
