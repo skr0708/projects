@@ -1,2 +1,6 @@
 yt-api-tests/
+stk-mrkt/
 *.csv
+.env
+/temp
+.pdf
